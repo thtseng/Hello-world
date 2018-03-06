@@ -4,3 +4,4 @@ test test test test
 
 branch master
 branch 2
+branch 3
